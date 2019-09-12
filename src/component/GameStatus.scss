@@ -1,0 +1,22 @@
+.status {
+  width: 150px;
+  .next,.win{
+    font-size: 18px;
+  }
+  .win{
+    border: 2px solid;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px 0;
+  }
+  .equal{
+    background-color: antiquewhite;
+  }
+  .red{
+    color: #ff4400;
+  }
+  .black{
+    color: #282c34;
+  }
+}
+

@@ -1,0 +1,12 @@
+.game{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  top: 100px;
+  width: 250px;
+  height: 400px;
+  left: 50%;
+  transform: translateX(-50%);
+}
